@@ -5,7 +5,7 @@ Bem-vindo ao repositório de Circuitos Lógicos! Estes projetos foram desenvolvi
 ## Requisitos:
 - Logisim-ITA ou Logisim instalado
 
-## ⚙️Configuração⚙️
+## ⚙️ Configuração
 
 Siga as etapas abaixo:
 
