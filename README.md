@@ -1,7 +1,9 @@
 # Circuitos Lógicos
 
+Bem-vindo ao repositório de Circuitos Lógicos! Estes projetos foram desenvolvidos como atividades práticas da matéria Arqueitetura e Organização de Computadores no curso técnico de Informática do CEFET-MG.
+
 ## Requisitos:
-- Logisim-ITA ou Logisim
+- Logisim-ITA ou Logisim instalado
 
 ## ⚙️Configuração⚙️
 
