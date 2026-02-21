@@ -1,18 +1,11 @@
 # Circuitos Lógicos
 
-Bem-vindo ao repositório de Circuitos Lógicos! Estes projetos foram desenvolvidos como atividades práticas da matéria Arquitetura e Organização de Computadores no curso técnico de informática do CEFET-MG.
+Estes projetos foram desenvolvidos como atividades práticas da matéria Arquitetura e Organização de Computadores no curso técnico de informática do CEFET-MG.
 
-## ✔ Requisitos:
-- Logisim-ITA ou Logisim instalado
+## Tecnologias:
+- Logisim
 
-## ⚙️ Configuração
-
-Siga as etapas abaixo:
-
-1. Baixe o Repositório
-    - Baixe e extraia o arquivo zip
-      
-2. Configuração do Projeto
-    - Abra o arquivo dentro do Logisim
-
+## Como executar
+1. Baixe e extraia o arquivo zip com os projetos
+2. Abra o arquivo do projeto desejado no Logisim
 3. Execute o projeto
