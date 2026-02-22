@@ -2,7 +2,7 @@
 
 Estes projetos foram desenvolvidos como atividades práticas da matéria Arquitetura e Organização de Computadores no curso técnico de informática do CEFET-MG.
 
-## Tecnologias:
+## Tecnologias usadas
 - Logisim
 
 ## Como executar
