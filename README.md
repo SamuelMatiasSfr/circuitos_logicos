@@ -17,15 +17,15 @@ Estes projetos foram desenvolvidos como atividades práticas da matéria Arquite
 3. Execute o projeto
 
 ## Projetos
-`Acumuladores`: Circuito responsável por armazenar e atualizar valores a partir de operações realizadas
-`Barramentos`: Estrutura que simula a comunicação e transferência de dados entre diferentes componentes
-`Calculadora`: Calculadora digital com registradores, memória e ULA para operações aritméticas básicas
-`Clock`: Circuito gerador de sinais de clock para sincronização dos demais componentes
-`Contador_0-13`: Contador sequencial que realiza a contagem de 0 até 13
-`Flip-Flop`: Implementação básica de um flip-flop para armazenamento de um bit
-`Flip-Flops_Registradores`: Conjunto de flip-flops organizados para formar registradores de armazenamento
-`Memorias`: Simulação de estruturas de memória para armazenamento de dados
-`Mux_Demux`: Implementação de multiplexador e demultiplexador para controle de fluxo de dados
-`Registrador`: Circuito utilizado para armazenar e manipular conjuntos de bits
-`Subtrator`: Circuito responsável por realizar operações de subtração
-`ULA`: Unidade Lógica e Aritmética responsável por executar operações aritméticas e lógicas
+- `Acumuladores`: Circuito responsável por armazenar e atualizar valores a partir de operações realizadas
+- `Barramentos`: Estrutura que simula a comunicação e transferência de dados entre diferentes componentes
+- `Calculadora`: Calculadora digital com registradores, memória e ULA para operações aritméticas básicas
+- `Clock`: Circuito gerador de sinais de clock para sincronização dos demais componentes
+- `Contador_0-13`: Contador sequencial que realiza a contagem de 0 até 13
+- `Flip-Flop`: Implementação básica de um flip-flop para armazenamento de um bit
+- `Flip-Flops_Registradores`: Conjunto de flip-flops organizados para formar registradores de armazenamento
+- `Memorias`: Simulação de estruturas de memória para armazenamento de dados
+- `Mux_Demux`: Implementação de multiplexador e demultiplexador para controle de fluxo de dados
+- `Registrador`: Circuito utilizado para armazenar e manipular conjuntos de bits
+- `Subtrator`: Circuito responsável por realizar operações de subtração
+- `ULA`: Unidade Lógica e Aritmética responsável por executar operações aritméticas e lógicas
